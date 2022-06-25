@@ -8,7 +8,7 @@
     "express": "^4.17.1",
     "jquery": "^3.4.1",
     "node": "^12.8.0",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "node-sass": "^4.12.0",
     "nodemon": "^1.19.2",
     "path": "^0.12.7",
